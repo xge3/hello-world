@@ -1,2 +1,5 @@
 # hello-world
-This first time to use github.
+
+The first time to use github.
+
+Hi! I'm new here. Let's study together. ^&^
